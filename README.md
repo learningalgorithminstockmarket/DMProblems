@@ -352,7 +352,7 @@ Alpha的过程表示着先验，对人类来说非常重要。如果先验十分
 
 ##### **17) Explain the objective function of Gaussian graphical model? Thus the meaning of MLE?**
 
-![d](./images/Gaussian.png)
+![d](./images/gaussian.png)
 
 ##### **18) How a row or column-based norm (L1 or L2) can be used to construct hub-based models? And why this might be highly applicable?**
 
